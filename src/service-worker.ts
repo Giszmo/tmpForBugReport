@@ -1,0 +1,1 @@
+import nostr from 'nostr-tools'
